@@ -10,3 +10,11 @@ a {
   display: block;
   margin: 30px;
 }
+h3 {
+  margin: 50px;
+}
+a:hover {
+  background-color: gray;
+  color: white;
+  padding: 5px;
+}
